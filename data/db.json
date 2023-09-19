@@ -1,0 +1,65 @@
+{
+    "blogs": [
+      {
+        "title": "My First Blog",
+        "body": "I recently embarked on a journey into the world of blogging. It's an exciting new chapter in my life, and I can't wait to share my thoughts and experiences with you all. Stay tuned for more!",
+        "author": "mario",
+        "id": 1
+      },
+      {
+        "title": "Opening Party!",
+        "body": "Last weekend, I threw the most epic opening party for my new apartment. Friends and family gathered, and we danced the night away. It was a blast!",
+        "author": "yoshi",
+        "id": 2
+      },
+      {
+        "title": "The Art of Writing",
+        "body": "Writing is not just a skill; it's an art. It allows us to express our innermost thoughts, feelings, and creativity. Join me on a journey to explore the depths of this beautiful craft.",
+        "author": "luigi",
+        "id": 3
+      },
+      {
+        "title": "Exploring New Horizons",
+        "body": "I've always had a passion for travel and adventure. In this blog, I'll take you on a virtual journey to some of the most breathtaking places on Earth. Get ready to be inspired!",
+        "author": "peach",
+        "id": 4
+      },
+      {
+        "title": "A Culinary Adventure",
+        "body": "Cooking has been my lifelong passion, and I'm here to share my favorite recipes, culinary tips, and gastronomic adventures. Let's dive into the world of flavors together!",
+        "author": "toad",
+        "id": 5
+      },
+      {
+        "title": "Tech Talk",
+        "body": "From the latest gadgets to cutting-edge technology trends, I'll keep you informed and entertained. Tech enthusiasts, unite! We have so much to explore.",
+        "author": "bowser",
+        "id": 6
+      },
+      {
+        "title": "Mindfulness Matters",
+        "body": "In the chaos of our daily lives, mindfulness offers a path to inner peace and balance. Join me as we delve into mindfulness practices and their profound impact.",
+        "author": "rosalina",
+        "id": 7
+      },
+      {
+        "title": "Fitness Fanatics Unite",
+        "body": "Whether you're a gym enthusiast or just getting started on your fitness journey, this blog is your go-to source for workout tips, nutrition advice, and motivation.",
+        "author": "wario",
+        "id": 8
+      },
+      {
+        "title": "Crafting Corner",
+        "body": "Crafting is my creative outlet, and I'm excited to share DIY projects, craft ideas, and inspiration. Let's get crafty and explore our artistic sides!",
+        "author": "daisy",
+        "id": 9
+      },
+      {
+        "title": "Bookworm's Haven",
+        "body": "If you're a book lover like me, you're in the right place. Join me as we dive into the magical world of literature, book reviews, and literary discussions.",
+        "author": "waluigi",
+        "id": 10
+      }
+    ]
+  }
+  
